@@ -15,7 +15,7 @@ After the user pressed the confirm button, the program will generate a new membe
 #----------------------------------------------------
 DATABASE fitness
 TABLE members
-  member_id INT(4) <-- Primary key
+	member_id INT(4) <-- Primary key
 	name VARCHAR(128)
 	gender VARCHAR(12)
 	weight INT(3)
