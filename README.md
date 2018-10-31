@@ -12,7 +12,6 @@ There are 3 buttons on the first window.
 
 After the user pressed the confirm button, the program will generate a new member id number, then save the id and all data to the database table.
 
-#----------------------------------------------------
 DATABASE fitness
 TABLE members
 	member_id INT(4) <-- Primary key
