@@ -11,13 +11,3 @@ There are 3 buttons on the first window.
       Then either press confirm button to save data or cancel button to go back to the first window.
 
 After the user pressed the confirm button, the program will generate a new member id number, then save the id and all data to the database table.
-
-DATABASE fitness
-TABLE members
-	member_id INT(4) <-- Primary key
-	name VARCHAR(128)
-	gender VARCHAR(12)
-	weight INT(3)
-	feet INT(2)
-	inch INT(2)
-	year INT(4)
